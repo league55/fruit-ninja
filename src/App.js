@@ -39,7 +39,7 @@ function App() {
               </div>
           </div>}
         {tokenOK && <div className={"game"}>
-            <iframe src="https://league55.github.io/FruitNinjaClone/"
+            <iframe src="https://league55.github.io/FruitNinjaGame/"
                     allow="camera *;"
                     title="Game"/>
         </div>}
