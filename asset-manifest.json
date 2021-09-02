@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/fruit-ninja/static/css/main.fcfdd094.chunk.css",
-    "main.js": "/fruit-ninja/static/js/main.87e102a8.chunk.js",
-    "main.js.map": "/fruit-ninja/static/js/main.87e102a8.chunk.js.map",
+    "main.js": "/fruit-ninja/static/js/main.b4226fb8.chunk.js",
+    "main.js.map": "/fruit-ninja/static/js/main.b4226fb8.chunk.js.map",
     "runtime-main.js": "/fruit-ninja/static/js/runtime-main.7fc1d4fb.js",
     "runtime-main.js.map": "/fruit-ninja/static/js/runtime-main.7fc1d4fb.js.map",
     "static/js/2.7ff4d555.chunk.js": "/fruit-ninja/static/js/2.7ff4d555.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.7fc1d4fb.js",
     "static/js/2.7ff4d555.chunk.js",
     "static/css/main.fcfdd094.chunk.css",
-    "static/js/main.87e102a8.chunk.js"
+    "static/js/main.b4226fb8.chunk.js"
   ]
 }
